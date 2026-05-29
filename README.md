@@ -21,7 +21,7 @@ This portfolio website was built to showcase Clipzy Media's content editing serv
 
 ## Live Website
 
-Add your Netlify/domain link here.
+clipzymedia.netlify.app
 
 ## Author
 
